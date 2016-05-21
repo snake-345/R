@@ -1,0 +1,13 @@
+{
+  "name": "R",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "g.snake345@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
